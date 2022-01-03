@@ -1,0 +1,28 @@
+/* :root{
+
+} */
+
+/* .grid{
+
+} */
+
+body {
+    background-color: hotpink;
+    width: 1000px;
+}
+
+header {
+    background-color: red;
+}
+
+Main {
+    background-color: grey;
+}
+
+Nav {
+    background-color: blue;
+}
+
+Footer {
+    background-color: green;
+}
