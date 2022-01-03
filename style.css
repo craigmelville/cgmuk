@@ -1,5 +1,7 @@
 :root{
     font-family: 'Sawarabi Gothic', sans-serif;
+    display: grid;
+    width: 1000px;
 }
 
 /* .grid{
@@ -8,7 +10,7 @@
 
 body {
     background-color: hotpink;
-    width: 1000px;
+    margin: 0 0 0 0;
 }
 
 header {
@@ -19,14 +21,19 @@ header {
     font-size: 2.5rem;
 }
 
-Main {
-    background-color: grey;
-}
-
 Nav {
     background-color: blue;
+    width: 80px;
+    height: 800px;
+}
+
+Main {
+    background-color: grey;
+    width: 920px;
+    height: 800px;
 }
 
 Footer {
     background-color: green;
+    height: 45px;
 }
